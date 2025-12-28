@@ -1,7 +1,7 @@
 # Hi 👋, I'm Atesh Bhalerao  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atesh-bhalerao&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Bhaleraoatesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Senior-.NET%20Developer-blue?style=flat" />
   <img src="https://img.shields.io/badge/Backend-Engineer-success?style=flat" />
 </p>
@@ -74,12 +74,12 @@ Recognized for leading a **critical API migration project**, delivered **ahead o
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atesh-bhalerao&show_icons=true&theme=react" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atesh-bhalerao&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhaleraoatesh&show_icons=true&theme=react" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaleraoatesh&theme=react" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atesh-bhalerao&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaleraoatesh&layout=compact&theme=react" />
 </p>
 
 ---
