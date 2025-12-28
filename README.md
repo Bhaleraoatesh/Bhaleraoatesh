@@ -1,126 +1,100 @@
-👋 Hi, I’m Atesh Bhalerao
-💻 .NET Developer | Backend Engineer | API & Microservices Specialist
+# Hi 👋, I'm Atesh Bhalerao  
 
-Experienced .NET Developer with 3+ years of professional experience, specializing in .NET Core, C#, REST APIs, and scalable backend systems. I have worked extensively in Banking and Financial Services domains, delivering high-quality, production-ready solutions using Agile methodologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atesh-bhalerao&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Senior-.NET%20Developer-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Backend-Engineer-success?style=flat" />
+</p>
 
-🚀 About Me
+### 🚀 Senior .NET Developer | Backend & API Specialist  
 
-🔹 3+ years of hands-on experience in .NET Core & ASP.NET
+Senior-level **.NET Developer with 3+ years of enterprise experience** designing **scalable, high-performance backend systems**.  
+Strong background in **Banking & Financial Services**, with deep focus on **system design, clean architecture, and reliability**.
 
-🔹 Strong expertise in REST APIs, Microservices & Clean Architecture
+---
 
-🔹 Experience with Banking & E-commerce systems
+## 🔥 What I Bring to the Table
+- Architect and develop **RESTful APIs & Microservices**
+- Apply **Clean Architecture, CQRS, Repository Pattern**
+- Optimize **application & database performance**
+- Build **CI/CD pipelines** for production-grade systems
+- Collaborate in **Agile / Scrum** environments
 
-🔹 Passionate about performance optimization & clean code
+---
 
-🔹 Agile practitioner (Scrum, SDLC)
+## 🧠 System Design & Architecture
 
-🛠️ Tech Stack
-🔹 Backend & Frameworks
+I design systems with **scalability, maintainability, and fault tolerance** in mind.
 
-C#, .NET Core, ASP.NET
+**Architecture Principles**
+- Clean Architecture & SOLID principles
+- Domain-driven design (DDD – tactical)
+- Stateless, API-first design
 
-REST APIs, Microservices
+**Patterns & Practices**
+- Microservices & API Gateway pattern
+- CQRS with Mediator pattern
+- Repository & Unit of Work
+- JWT-based Authentication & Authorization
+- Logging, Monitoring & Observability
 
-Entity Framework Core, Dapper
+**Non-Functional Focus**
+- Performance optimization
+- Database query tuning
+- High availability & reliability
+- Secure API design
 
-CQRS, Mediator, Repository Pattern
+---
 
-JWT Authentication, AutoMapper
+## 🛠️ Tech Stack
 
-🔹 Frontend
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat)
+![REST](https://img.shields.io/badge/REST_API-009688?style=flat)
 
-Angular
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-TypeScript
+### Database & DevOps
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-🔹 Databases
+---
 
-MS SQL Server
+## 🏆 Achievements
+🏅 **Infosys Insta Award – 2024**  
+Recognized for leading a **critical API migration project**, delivered **ahead of schedule** with high quality standards.
 
-Stored Procedures
+---
 
-Query & Performance Optimization
+## 📊 GitHub Stats
 
-🔹 DevOps & CI/CD
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atesh-bhalerao&show_icons=true&theme=react" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atesh-bhalerao&theme=react" height="165"/>
+</p>
 
-TeamCity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atesh-bhalerao&layout=compact&theme=react" />
+</p>
 
-Octopus Deploy
+---
 
-Azure DevOps (Repos, Pipelines, Boards)
+## 🎯 What I’m Looking For
+- Backend-heavy roles at **Product / FAANG-style companies**
+- Opportunities involving **System Design & Scalable APIs**
+- Teams that value **engineering excellence over just delivery**
 
-Git, JIRA
+---
 
-IIS & Windows Server
+## 📫 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/atesh-bhalerao  
+- 📧 Email: **bhalerao1214@gmail.com**
 
-🔹 Testing & Quality
+---
 
-xUnit
-
-SonarQube
-
-🔹 Messaging & Integration
-
-Messaging Systems
-
-Mule 4
-
-Anypoint Studio
-
-🔹 Monitoring & Logging
-
-Serilog
-
-Dynatrace
-
-💼 Professional Experience
-Dot Net Developer
-
-Infosys Limited — Pune, India
-📅 Jan 2022 – Present
-
-Developed and maintained scalable .NET Core applications
-
-Designed and implemented RESTful APIs using clean architecture
-
-Applied CQRS, Mediator & Repository patterns
-
-Worked on CI/CD pipelines using TeamCity & Octopus Deploy
-
-Managed IIS deployments on Windows Server
-
-Troubleshot performance issues at code and database levels
-
-Collaborated with cross-functional teams using Agile/Scrum
-
-🏆 Achievements
-
-🏅 Infosys Insta Award – February 2024
-Recognized for successfully completing an API migration project ahead of schedule while exceeding quality standards.
-
-🎓 Education
-
-M.Sc. in Mathematics
-B.P.H.E Society’s Ahmednagar College (2020 – 2022)
-
-B.Sc. in Mathematics
-B.P.H.E Society’s Ahmednagar College (2017 – 2020)
-
-📫 Connect With Me
-
-📧 Email: bhalerao1214@gmail.com
-
-💼 LinkedIn: linkedin.com/in/atesh-bhalerao
-
-📞 Phone: +91 7066241487
-
-⚡ GitHub Goals
-
-✔️ Build clean, scalable backend systems
-
-✔️ Share real-world .NET & API projects
-
-✔️ Learn more about Cloud & System Design
-
-⭐ If you like my work, feel free to star ⭐ my repositories!
+⭐ *If you like clean architecture, scalable systems, and real-world backend engineering — you’ll like my work.*
