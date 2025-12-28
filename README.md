@@ -71,19 +71,6 @@ Recognized for leading a **critical API migration project**, delivered **ahead o
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhaleraoatesh&show_icons=true&theme=react" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaleraoatesh&theme=react" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaleraoatesh&layout=compact&theme=react" />
-</p>
-
----
-
 ## 🎯 What I’m Looking For
 - Backend-heavy roles at **Product / FAANG-style companies**
 - Opportunities involving **System Design & Scalable APIs**
