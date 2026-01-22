@@ -82,7 +82,11 @@ Recognized for leading a **critical API migration project**, delivered **ahead o
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaleraoatesh&layout=compact&theme=tokyonight" /> </p>
 ---
 ## 📫 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/atesh-bhalerao  
+
+
+- 💼 LinkedIn: https://linkedin.com/in/atesh-bhalerao
+
+
 - 📧 Email: **bhalerao1214@gmail.com**
 
 ---
