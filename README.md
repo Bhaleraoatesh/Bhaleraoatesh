@@ -78,7 +78,9 @@ Recognized for leading a **critical API migration project**, delivered **ahead o
 - Teams that value **engineering excellence over just delivery**
 
 ---
-
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bhaleraoatesh&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaleraoatesh&theme=tokyonight" /> </p>
+---
 ## 📫 Let’s Connect
 - 💼 LinkedIn: https://linkedin.com/in/atesh-bhalerao  
 - 📧 Email: **bhalerao1214@gmail.com**
