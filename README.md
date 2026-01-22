@@ -1,4 +1,5 @@
-# Hi 👋, I'm Atesh Bhalerao  
+# Hi 👋, I'm Atesh Bhalerao
+<!-- ===================== BANNER ===================== --> <div align="center"> <!-- Upload banner.png in your repo root --> <img src="https://raw.githubusercontent.com/Bhaleraoatesh/Bhaleraoatesh/main/banner.png" alt="Backend System Design Banner" /> </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhaleraoatesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
